@@ -35,3 +35,5 @@ The following tokens are available for usage in messages:
 | `{signature_email_plain}`        | E-mail signature (plain text)       |
 | `{signature_mass_mailing_html}`  | Mass mailing signature (HTML)       |
 | `{signature_mass_mailing_plain}` | Mass mailing signature (plain text) |
+| `{signature_additional_html}`    | Additional signature (HTML)         |
+| `{signature_additional_plain}`   | Additional signature (plain text)   |
